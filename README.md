@@ -1,8 +1,18 @@
-# <img src="https://placehold.co/100x30/white/black?font=montserrat&text=TOJO%20GLOBAL" alt="TOJO Global Logo" width="150"/>
+<p align="center">
+  <img src="https://placehold.co/100x30/white/black?font=montserrat&text=TOJO%20GLOBAL" alt="TOJO Global Logo" width="150" style="padding-bottom: 20px;"/>
+</p>
 
-### **Where Your Vision Is Our Mission.**
+# TOJO Global
+
+**Where Your Vision Is Our Mission.**
 
 > Transform Your Business Online. Your trusted partner for **Marketing, Design, Management, Development & Branding**. Turning ideas into impact.
+
+---
+
+### About Us
+
+At TOJO Global, we are a passionate team dedicated to empowering businesses in the digital world. Our expertise spans a wide range of services, from crafting compelling marketing strategies and stunning designs to building robust web applications and developing unique brand identities. We believe in a collaborative approach, working closely with our clients to bring their visions to life and achieve their business goals.
 
 ---
 
@@ -20,52 +30,25 @@ We are a full-service digital agency dedicated to building and elevating your br
 
 ---
 
-## 🛠️ Our Tech Stack
+## Featured Projects
 
-**Frontend & Backend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+* **[TS-Geosystems (TSGB)](https://ts-geosystems.com.bd)** An e-commerce platform with a custom admin dashboard, product management, and secure SSLCommerz payments. Built for SEO and lead generation.
 
-**Styling & Databases:**  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+* **[FaizyLegend](https://faizylegend.com)** A portfolio and interactive fan site for a renowned Pakistani model, featuring user-submitted galleries and community tools.
 
-**DevOps & Deployment:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+**Tech Stack Highlights:** React · Next.js · TypeScript · Tailwind CSS · Redux Toolkit · Node.js · Express.js · MySQL · MongoDB · SSLCommerz · AWS · SEO Optimization
 
----
-
-## 🌟 Featured Projects
-
-### **[TS-Geosystems (TSGB)](https://ts-geosystems.com.bd)**  
-A robust **E-commerce platform** with a custom admin dashboard, comprehensive product management, and integrated **SSLCommerz** payments. Engineered for **SEO** and lead generation, with ongoing company-supported improvements.
-
-**↳ Tech:** `React` `Next.js` `TypeScript` `Tailwind CSS` `Node.js` `MySQL`
-
-### **[FaizyLegend](https://faizylegend.com)**  
-A dynamic **portfolio and interactive fan site** for a renowned Pakistani model. Features user-submitted galleries, community engagement tools, and a sleek, modern design.
-
-**↳ Tech:** `React` `Redux Toolkit` `Node.js` `Express.js` `MongoDB`
-
-> **💼 Explore more:** [View our full portfolio and case studies on our website](https://tojoglobal.com)
+> **Explore more:** [View our portfolio and case studies on our website](https://tojoglobal.com)
 
 ---
 
 ## 📫 Let's Connect & Build Something Amazing
 
-Have an idea? Let's turn it into an impactful digital solution.
+**TOJO Global** | **Marketing agency** | **Uttara, Dhaka, Bangladesh**
 
-**TOJO Global** · **Marketing Agency**  
-**Uttara, Dhaka, Bangladesh**
-
-*   **📞 Phone:** [+880 1333-411624](tel:+8801333411624)
-*   **📧 Email:** [hello@tojoglobal.com](mailto:hello@tojoglobal.com)
-*   **🌐 Website:** [https://tojoglobal.com](https://tojoglobal.com)
+* **Phone:** [+880 1333-411624](tel:+8801333411624)
+* **Email:** [hello@tojoglobal.com](mailto:hello@tojoglobal.com)
+* **Website:** [https://tojoglobal.com](https://tojoglobal.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/tojoglobal)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tojoglobal)
