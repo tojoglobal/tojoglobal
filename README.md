@@ -20,18 +20,32 @@ We are a full-service digital agency dedicated to building and elevating your br
 
 ---
 
-## Featured Projects
+## 🌟 Featured Projects
 
-- **[TS-Geosystems (TSGB)](https://ts-geosystems.com.bd)**  
-  E-commerce platform with a custom admin dashboard, product management, and secure SSLCommerz payments. Built for SEO and lead generation, with ongoing company-supported improvements.
+Here are some of our flagship projects and open-source contributions:
 
-- **[FaizyLegend](https://faizylegend.com)**  
-  Portfolio and interactive fan site for a renowned Pakistani model. Features include user-submitted galleries, community tools, and modern design.
-
-**Tech Stack Highlights:**  
-React · Next.js · TypeScript · Tailwind CSS · Redux Toolkit · Node.js · Express.js · MySQL · MongoDB · SSLCommerz · AWS · SEO Optimization
+*   **[Project Alpha](https://github.com/tojoglobal/project-alpha)** - A modern, responsive e-commerce platform built with React and Node.js. *[React, Node.js, MongoDB]*
+*   **[Brandify Toolkit](https://github.com/tojoglobal/brandify-toolkit)** - An open-source suite of design resources and templates for startups. *[Figma, Adobe Creative Suite]*
+*   **[MarketGuru API](https://github.com/tojoglobal/marketguru-api)** - A powerful analytics API for tracking social media engagement and ROI. *[Python, Django, PostgreSQL]*
 
 > **Explore more:** [View our portfolio and case studies on our website](https://tojoglobal.com)
+
+---
+
+## 🛠️ Tech & Tools
+
+**Development & Design Stack:**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Adobe Creative Suite](https://img.shields.io/badge/-Adobe%20Creative%20Suite-DA1F26?style=flat&logo=adobe&logoColor=white)
+
+**DevOps & Deployment:**
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
