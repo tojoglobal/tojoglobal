@@ -1,18 +1,8 @@
-<p align="center">
-  <img src="https://placehold.co/100x30/white/black?font=montserrat&text=TOJO%20GLOBAL" alt="TOJO Global Logo" width="150" style="padding-bottom: 20px;"/>
-</p>
+# <img src="https://placehold.co/100x30/white/black?font=montserrat&text=TOJO%20GLOBAL" alt="TOJO Global Logo" width="150"/>
 
-# TOJO Global
-
-**Where Your Vision Is Our Mission.**
+### **Where Your Vision Is Our Mission.**
 
 > Transform Your Business Online. Your trusted partner for **Marketing, Design, Management, Development & Branding**. Turning ideas into impact.
-
----
-
-### About Us
-
-At TOJO Global, we are a passionate team dedicated to empowering businesses in the digital world. Our expertise spans a wide range of services, from crafting compelling marketing strategies and stunning designs to building robust web applications and developing unique brand identities. We believe in a collaborative approach, working closely with our clients to bring their visions to life and achieve their business goals.
 
 ---
 
@@ -32,11 +22,14 @@ We are a full-service digital agency dedicated to building and elevating your br
 
 ## Featured Projects
 
-* **[TS-Geosystems (TSGB)](https://ts-geosystems.com.bd)** An e-commerce platform with a custom admin dashboard, product management, and secure SSLCommerz payments. Built for SEO and lead generation.
+- **[TS-Geosystems (TSGB)](https://ts-geosystems.com.bd)**  
+  E-commerce platform with a custom admin dashboard, product management, and secure SSLCommerz payments. Built for SEO and lead generation, with ongoing company-supported improvements.
 
-* **[FaizyLegend](https://faizylegend.com)** A portfolio and interactive fan site for a renowned Pakistani model, featuring user-submitted galleries and community tools.
+- **[FaizyLegend](https://faizylegend.com)**  
+  Portfolio and interactive fan site for a renowned Pakistani model. Features include user-submitted galleries, community tools, and modern design.
 
-**Tech Stack Highlights:** React · Next.js · TypeScript · Tailwind CSS · Redux Toolkit · Node.js · Express.js · MySQL · MongoDB · SSLCommerz · AWS · SEO Optimization
+**Tech Stack Highlights:**  
+React · Next.js · TypeScript · Tailwind CSS · Redux Toolkit · Node.js · Express.js · MySQL · MongoDB · SSLCommerz · AWS · SEO Optimization
 
 > **Explore more:** [View our portfolio and case studies on our website](https://tojoglobal.com)
 
@@ -44,11 +37,14 @@ We are a full-service digital agency dedicated to building and elevating your br
 
 ## 📫 Let's Connect & Build Something Amazing
 
-**TOJO Global** | **Marketing agency** | **Uttara, Dhaka, Bangladesh**
+Have an idea? Let's turn it into a impactful digital solution.
 
-* **Phone:** [+880 1333-411624](tel:+8801333411624)
-* **Email:** [hello@tojoglobal.com](mailto:hello@tojoglobal.com)
-* **Website:** [https://tojoglobal.com](https://tojoglobal.com)
+**TOJO Global** ・ **Page** ・ **Marketing agency**
+**Uttara, Dhaka, Bangladesh**
+
+*   **Phone:** [+880 1333-411624](tel:+8801333411624)
+*   **Email:** [hello@tojoglobal.com](mailto:hello@tojoglobal.com)
+*   **Website:** [https://tojoglobal.com](https://tojoglobal.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/tojoglobal)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tojoglobal)
