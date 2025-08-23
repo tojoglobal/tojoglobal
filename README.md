@@ -20,13 +20,16 @@ We are a full-service digital agency dedicated to building and elevating your br
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-Here are some of our flagship projects and open-source contributions:
+- **[TS-Geosystems (TSGB)](https://ts-geosystems.com.bd)**  
+  E-commerce platform with a custom admin dashboard, product management, and secure SSLCommerz payments. Built for SEO and lead generation, with ongoing company-supported improvements.
 
-*   **[Project Alpha](https://github.com/tojoglobal/project-alpha)** - A modern, responsive e-commerce platform built with React and Node.js. *[React, Node.js, MongoDB]*
-*   **[Brandify Toolkit](https://github.com/tojoglobal/brandify-toolkit)** - An open-source suite of design resources and templates for startups. *[Figma, Adobe Creative Suite]*
-*   **[MarketGuru API](https://github.com/tojoglobal/marketguru-api)** - A powerful analytics API for tracking social media engagement and ROI. *[Python, Django, PostgreSQL]*
+- **[FaizyLegend](https://faizylegend.com)**  
+  Portfolio and interactive fan site for a renowned Pakistani model. Features include user-submitted galleries, community tools, and modern design.
+
+**Tech Stack Highlights:**  
+React · Next.js · TypeScript · Tailwind CSS · Redux Toolkit · Node.js · Express.js · MySQL · MongoDB · SSLCommerz · AWS · SEO Optimization
 
 > **Explore more:** [View our portfolio and case studies on our website](https://tojoglobal.com)
 
