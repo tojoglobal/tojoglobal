@@ -57,4 +57,4 @@ Uttara, Dhaka, Bangladesh
   </a>
 </p>
 
-<p align="center"><sub><i><b>TOJO Global — Where innovation meets execution.</b></i></sub></p>
+<p align="center"><sub><i>TOJO Global — Where innovation meets execution.</i></sub></p>
