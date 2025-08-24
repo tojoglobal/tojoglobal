@@ -28,9 +28,6 @@ TOJO Global is a full-service digital agency dedicated to building and elevating
 - [FaizyLegend](https://faizylegend.com)  
   Interactive portfolio and fan engagement site for a prominent model.
 
-**Tech Highlights:**  
-React · Next.js · TypeScript · Tailwind CSS · Node.js · MySQL · MongoDB · AWS · SEO
-
 > **See more:** [Portfolio & case studies](https://tojoglobal.com)
 
 ## 📫 Connect With Us
