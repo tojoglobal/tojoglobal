@@ -41,7 +41,6 @@ Have an idea? Let’s build something impactful.
 Uttara, Dhaka, Bangladesh  
 [+880 1333-411624](tel:+8801333411624)
 [hello@tojoglobal.com](mailto:hello@tojoglobal.com)  
-[tojoglobal.com](https://tojoglobal.com)
 
 <p>
   <a href="https://www.linkedin.com/company/tojoglobal">
