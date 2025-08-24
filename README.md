@@ -22,7 +22,7 @@ TOJO Global is a full-service digital agency dedicated to building and elevating
 
 ## 🌟 Selected Projects
 
-- [TS-Geosystems (TSGB)](https://ts-geosystems.com.bd)  
+- [TS-Geosystems Bangladesh (TSGB)](https://ts-geosystems.com.bd)  
   E-commerce platform with custom admin, secure payments, and SEO focus.
 
 - [FaizyLegend](https://faizylegend.com)  
