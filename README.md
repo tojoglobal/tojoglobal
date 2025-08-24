@@ -7,8 +7,6 @@
   Transform your business online with a trusted partner for <b>Marketing · Design · Development · Branding</b>
 </p>
 
----
-
 ## 🚀 About Us
 
 TOJO Global is a full-service digital agency dedicated to building and elevating your brand’s digital presence. We turn ideas into impact through seamless, integrated services.
